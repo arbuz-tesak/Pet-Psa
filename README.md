@@ -70,4 +70,4 @@
 
 «Футер помогает пользователю найти нужные разделы сайта и контакты приюта».
 
-[![link to the website]](http://127.0.0.1:5500/pet-spa-02%20tinypng/index.html#!)
+[![link to the website]](https://celebrated-macaron-5d59e7.netlify.app/)
